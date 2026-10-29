@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: gold-leaf-scroll
+title: Gold leaf scroll border
+description: A horizontal vector border of two wave stems, one dark plum and one gold, crossing each other in opposite phase along the strip. Pointed gold leaves with a cream vein spring from the crests and troughs. Flat colours with dark outlines; the pattern continues across the left and right edges. The background is transparent.
+type: border
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - leaf
+  - vine
+  - scroll
+colors:
+  - purple
+  - gold
+  - cream
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+  frame:
+    corner: corner
+    slice: 21.43
+components:
+  corner:
+    master: corner.svg
+    description: Top-left quarter-round corner, the two stems bent through a quarter circle with one gold leaf, meeting the strip's stems at the centre of its right and bottom edges.
+usage_notes:
+  - Repeats along x at one cycle per master width; the build's rotated ladder gives the vertical use.
+  - The frame atlas composes the strip with the corner component; use it with border-image and round fitting.
+display_width:
+  - 128
+  - 256
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.svg
+provenance: null
+license: null
