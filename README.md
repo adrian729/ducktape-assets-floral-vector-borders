@@ -3,7 +3,7 @@
 
 Six hand-made SVG floral border styles with their corner components, a legacy collection whose origin was never recorded.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `floral-vector-borders`, imported, 6 assets, version 1.0.0.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `floral-vector-borders`, imported, 6 assets, version 1.0.1.
 
 ## Licence and attribution
 
@@ -16,7 +16,7 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 Pin the exact version (never `@latest`). For `floral-vector-borders/gold-leaf-scroll`:
 
 ```html
-<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.0/webp/gold-leaf-scroll-512.webp" alt="" loading="lazy">
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.1/webp/gold-leaf-scroll-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-floral-vector-borders`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-floral-vector-borders-masters`; never put a master on a page.

@@ -3,6 +3,13 @@
 
 One entry per publisher run that published this set, newest first. Versions follow the content: a patch when only metadata or tooling changed, a minor when assets were added, a major when one was removed or renamed. The [release records](https://github.com/adrian729/ducktape-assets/tree/main/releases) hold every hash.
 
+## 1.0.1 (2026-10-31)
+
+Patch release: no asset changed (set metadata or tooling) since 1.0.0. Run [41243521368](https://github.com/adrian729/ducktape-assets/actions/runs/41243521368), set commit `b49e1ba`, index 1.7.0, [tarballs](https://github.com/adrian729/ducktape-assets/releases/tag/run-41243521368).
+
+- `@ranx729/ducktape-assets-floral-vector-borders@1.0.1`, verified on jsDelivr
+- `@ranx729/ducktape-assets-floral-vector-borders-masters@1.0.1`, verified on jsDelivr
+
 ## 1.0.0 (2026-10-30)
 
 First release: 6 assets. Run [41055622299](https://github.com/adrian729/ducktape-assets/actions/runs/41055622299), set commit `37c1ed0`, index 1.6.0.
